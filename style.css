@@ -1,0 +1,141 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+
+.first-page{
+	height: 100vh;
+	background-image: url(img/background-1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 30vh; 
+}
+
+.second-page{
+	height: 100vh;
+	font-weight: bold;
+	padding-top: 30vh; 
+	text-align: right;
+}
+
+.third-page{
+	height: 100vh;
+	background-image: url(img/background-2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10vh; 
+}
+
+.fourth-page{
+	height: 100vh;
+	font-weight: bold;
+	padding-top: 10vh; 
+	text-align: right;
+}
+
+.fifth-page{
+	height: 130vh;
+	background-image: url(img/background-4.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 15vh; 
+}
+
+.name{
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: 'Rammetto One', cursive;
+}
+
+.name-s{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: 'Rammetto One', cursive;
+}
+
+.title{
+	color: black;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Rammetto One', cursive;
+
+}
+
+.title-2{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Rammetto One', cursive;
+
+}
+
+.text{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+
+.text-2{
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+}
+
+.text-3{
+	color: grey;
+	font-weight: bold;
+	font-size: 35px;
+	text-align: right;
+}
+
+.text-4{
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+}
+
+.connect{
+	height: 100px;
+	width: 100px;
+}
+
+.margin{
+	padding-top: 10vh;
+}
+
+.instagram-media:hover {
+	transform: scale(1.05);
+	opacity: 0.9;
+}
+
+.box{
+	margin: 0 auto;
+	width: 500px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 5px;
+	font-family: 'Rammetto One', cursive;
+}
